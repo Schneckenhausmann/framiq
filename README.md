@@ -43,21 +43,6 @@ A stunning professional macOS application for intelligent image framing and proc
 - 📁 **Smart File Handling**: Native macOS file picker integration
 - 🛡️ **Robust Error Handling**: Graceful handling of unsupported formats
 
-## 🎨 App Icon & Assets
-
-The beautiful Framiq icon features a stunning gradient design with:
-- Blue → Purple → Pink gradient stroke
-- Subtle inner gradient fill
-- Clean white center dot
-- Perfectly rounded corners
-
-All app assets are available in `docs/assets/`:
-- `BeautifulIcon.png` - High-resolution app icon (1600×1600)
-- `BeautifulIcon_AppKit.png` - Alternative rendering (1024×1024)
-- `icon.png` - Original app icon
-- `Screenshot.png` - Application screenshot
-- `Framiq.mov` - Demo video
-
 ## 🎥 Video Demo
 
 <div align="center">
