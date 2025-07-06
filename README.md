@@ -13,7 +13,7 @@
 
 A stunning professional macOS application for intelligent image framing and processing. Transform your images with custom aspect ratios, elegant borders, and gallery-quality presentation. Perfect for photographers, content creators, and social media professionals.
 
-## 📱 Screenshots
+## 📱 Screenshot
 
 <div align="center">
   <img src="docs/assets/Screenshot.png" alt="Framiq Screenshot" width="800">
