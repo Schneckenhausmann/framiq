@@ -70,7 +70,7 @@ A stunning professional macOS application for intelligent image framing and proc
 
 ### Download & Install
 1. Download the latest release from the [Releases](../../releases) page
-2. Extract the `.zip` file and move `Framiq.app` to your Applications folder
+2. Mount the `.dmg` file and move `Framiq.app` to your Applications folder
 3. Launch Framiq from Applications or Spotlight
 
 ### First Launch
