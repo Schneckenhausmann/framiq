@@ -146,20 +146,6 @@ open build/Release/
 - **Story 9:16**: Instagram/TikTok stories
 - **Custom Ratio**: Define your own dimensions
 
-## 🔧 Icon Generation
-
-Want to recreate the beautiful Framiq icon? Use the included extraction script:
-
-```bash
-# Generate high-resolution PNG icons
-swift extract_beautiful_icon.swift
-
-# Creates:
-# - BeautifulIcon.png (1600×1600 SwiftUI version)
-# - BeautifulIcon_AppKit.png (1024×1024 AppKit version)
-```
-
-The script extracts the exact icon rendering code from the app and generates standalone PNG files perfect for use in other applications, websites, or documentation.
 
 ## ⚙️ Processing Algorithm
 
