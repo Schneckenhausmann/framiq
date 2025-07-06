@@ -23,11 +23,10 @@ A stunning professional macOS application for intelligent image framing and proc
 ## 🎥 Video Demo
 
 <div align="center">
-  
-docs/assets/Framiq.mp4
-
+  <img src="docs/assets/Framiq.gif" alt="Framiq Video" width="800">
   <p><em>🎬 Watch Framiq in action - see the real-time preview and batch processing capabilities!</em></p>
 </div>
+
 ## 📋 Supported Image Formats
 
 - JPEG (.jpg, .jpeg)
