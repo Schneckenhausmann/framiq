@@ -229,21 +229,6 @@ Framiq/
 └── README.md                        # This file
 ```
 
-## 🚀 Recent Improvements
-
-### Version 1.1 - Enhanced Reactivity
-- **Real-time Previews**: Instant updates when adjusting aspect ratios or borders
-- **Smooth Animations**: Elegant transitions for all UI interactions
-- **Auto-Selection**: Automatic selection of most common aspect ratio in batch mode
-- **Consistent Status**: Processing results preserved when switching between modes
-- **Performance Optimizations**: Improved memory usage and rendering speed
-
-### Fixed Issues
-- ✅ Single image status display now consistently shows completion results
-- ✅ Batch preview automatically selects first detected aspect ratio
-- ✅ Preview updates in real-time without requiring manual interaction
-- ✅ Mode switching preserves completed processing results
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
