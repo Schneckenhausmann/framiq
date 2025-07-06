@@ -58,6 +58,14 @@ All app assets are available in `docs/assets/`:
 - `Screenshot.png` - Application screenshot
 - `Framiq.mov` - Demo video
 
+## 🎥 Video Demo
+
+<div align="center">
+  
+docs/assets/Framiq.mov
+
+  <p><em>🎬 Watch Framiq in action - see the real-time preview and batch processing capabilities!</em></p>
+</div>
 ## 📋 Supported Image Formats
 
 - JPEG (.jpg, .jpeg)
