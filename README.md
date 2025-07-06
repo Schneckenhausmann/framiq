@@ -20,6 +20,23 @@ A stunning professional macOS application for intelligent image framing and proc
   <p><em>Framiq's beautiful interface with real-time preview and batch processing capabilities</em></p>
 </div>
 
+## 🎥 Video Demo
+
+<div align="center">
+  
+docs/assets/Framiq.mp4
+
+  <p><em>🎬 Watch Framiq in action - see the real-time preview and batch processing capabilities!</em></p>
+</div>
+## 📋 Supported Image Formats
+
+- JPEG (.jpg, .jpeg)
+- PNG (.png)
+- TIFF (.tiff, .tif)
+- HEIC/HEIF (.heic, .heif)
+- BMP (.bmp)
+- GIF (.gif)
+
 ## ✨ Features
 
 ### Core Functionality
@@ -43,22 +60,6 @@ A stunning professional macOS application for intelligent image framing and proc
 - 📁 **Smart File Handling**: Native macOS file picker integration
 - 🛡️ **Robust Error Handling**: Graceful handling of unsupported formats
 
-## 🎥 Video Demo
-
-<div align="center">
-  
-docs/assets/Framiq.mov
-
-  <p><em>🎬 Watch Framiq in action - see the real-time preview and batch processing capabilities!</em></p>
-</div>
-## 📋 Supported Image Formats
-
-- JPEG (.jpg, .jpeg)
-- PNG (.png)
-- TIFF (.tiff, .tif)
-- HEIC/HEIF (.heic, .heif)
-- BMP (.bmp)
-- GIF (.gif)
 
 ## 🖥️ System Requirements
 
